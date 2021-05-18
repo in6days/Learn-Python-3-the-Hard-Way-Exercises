@@ -1,0 +1,15 @@
+print("Hello World!")
+#print("Hello Again")
+print("I like typing this.")
+print("This is fun. ")
+print('Yay! Printing. ')
+print("I'd much rather you 'not'.")
+print('I "said" do not touch this.')
+print("Don't forget: Save, Ctrl+Shif+b. all in one click")
+print("Ctrl+Shit+P for Package; +T for first page")
+
+print("Alt+ Shift +R debug")
+print("Alt +R point of debug")
+
+print("Alt+Shift +T new terminal Windows PowerShell")
+print("python+ name of file + tab comand (ta3 alashom) run the file")
